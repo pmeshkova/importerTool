@@ -1,0 +1,8 @@
+docu.test.ImporterTool
+docu.test.arkiv.dao
+docu.test.arkiv.dao.impl
+docu.test.arkiv.exception
+docu.test.arkiv.service
+docu.test.importer.tool
+docu.test.importer.tool.configuration
+docu.test.unmarshall
